@@ -1,0 +1,21 @@
+{
+    "background" : "#011627",
+    "black" : "#011627",
+    "blue" : "#2472c8",
+    "brightBlack" : "#666666",
+    "brightBlue" : "#3b8eea",
+    "brightCyan" : "#29b8db",
+    "brightGreen" : "#23d18b",
+    "brightPurple" : "#d670d6",
+    "brightRed" : "#f14c4c",
+    "brightWhite" : "#e5e5e5",
+    "brightYellow" : "#f5f543",
+    "cyan" : "#11a8cd",
+    "foreground" : "#cccccc",
+    "green" : "#0dbc79",
+    "name" : "Winter is Coming (Dark Blue)",
+    "purple" : "#bc3fbc",
+    "red" : "#cd3131",
+    "white" : "#e5e5e5",
+    "yellow" : "#e5e510"
+}
